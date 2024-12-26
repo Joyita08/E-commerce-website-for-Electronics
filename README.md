@@ -1,2 +1,2 @@
 # E-commerce-website-for-Electronics
-Building an e-commerce store for electronics. An admin-based website.
+This is an e-commerce store for electronics. It is also an admin-based website.
